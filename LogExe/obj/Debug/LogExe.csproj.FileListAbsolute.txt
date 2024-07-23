@@ -1,0 +1,7 @@
+C:\Users\IyD Aut 2\Documents\Visual Studio\LOG_EXE\LogExe\LogExe\bin\Debug\LogExe.exe.config
+C:\Users\IyD Aut 2\Documents\Visual Studio\LOG_EXE\LogExe\LogExe\bin\Debug\LogExe.exe
+C:\Users\IyD Aut 2\Documents\Visual Studio\LOG_EXE\LogExe\LogExe\bin\Debug\LogExe.pdb
+C:\Users\IyD Aut 2\Documents\Visual Studio\LOG_EXE\LogExe\LogExe\obj\Debug\LogExe.csprojAssemblyReference.cache
+C:\Users\IyD Aut 2\Documents\Visual Studio\LOG_EXE\LogExe\LogExe\obj\Debug\LogExe.csproj.CoreCompileInputs.cache
+C:\Users\IyD Aut 2\Documents\Visual Studio\LOG_EXE\LogExe\LogExe\obj\Debug\LogExe.exe
+C:\Users\IyD Aut 2\Documents\Visual Studio\LOG_EXE\LogExe\LogExe\obj\Debug\LogExe.pdb
