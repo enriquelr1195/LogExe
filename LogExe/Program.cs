@@ -28,6 +28,7 @@ namespace LogExe
             File.AppendAllText(filePath, csv.ToString());
 
             //Comentario de prueba
+            //Comentario de prueba primer branch
         }
     }
 }
