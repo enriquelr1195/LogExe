@@ -26,6 +26,8 @@ namespace LogExe
 
             //after your loop
             File.AppendAllText(filePath, csv.ToString());
+
+            //Comentario de prueba
         }
     }
 }
